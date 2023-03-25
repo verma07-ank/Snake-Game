@@ -6,5 +6,5 @@ The player can also see their current score as well as high score.
 
 Technologies Used - HTML, CSS, Java-script.
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fsnake-game-wallpapers%2F&psig=AOvVaw2pqRBszOQcd8PhXiUFhTTz&ust=1679851755818000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPCL58vN9_0CFQAAAAAdAAAAABAE)
+!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fsnake-game-wallpapers%2F&psig=AOvVaw2pqRBszOQcd8PhXiUFhTTz&ust=1679851755818000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPCL58vN9_0CFQAAAAAdAAAAABAE)
 
